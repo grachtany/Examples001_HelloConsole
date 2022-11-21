@@ -1,0 +1,15 @@
+D:\Обучение\Examples\Examples003_Summ\bin\Debug\net6.0\Examples003_Summ.exe
+D:\Обучение\Examples\Examples003_Summ\bin\Debug\net6.0\Examples003_Summ.deps.json
+D:\Обучение\Examples\Examples003_Summ\bin\Debug\net6.0\Examples003_Summ.runtimeconfig.json
+D:\Обучение\Examples\Examples003_Summ\bin\Debug\net6.0\Examples003_Summ.dll
+D:\Обучение\Examples\Examples003_Summ\bin\Debug\net6.0\Examples003_Summ.pdb
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.csproj.AssemblyReference.cache
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.AssemblyInfoInputs.cache
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.AssemblyInfo.cs
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.csproj.CoreCompileInputs.cache
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.dll
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\refint\Examples003_Summ.dll
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.pdb
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\Examples003_Summ.genruntimeconfig.cache
+D:\Обучение\Examples\Examples003_Summ\obj\Debug\net6.0\ref\Examples003_Summ.dll

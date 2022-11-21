@@ -1,0 +1,15 @@
+D:\Обучение\Examples\Examples004_SummDel\bin\Debug\net6.0\Examples004_SummDel.exe
+D:\Обучение\Examples\Examples004_SummDel\bin\Debug\net6.0\Examples004_SummDel.deps.json
+D:\Обучение\Examples\Examples004_SummDel\bin\Debug\net6.0\Examples004_SummDel.runtimeconfig.json
+D:\Обучение\Examples\Examples004_SummDel\bin\Debug\net6.0\Examples004_SummDel.dll
+D:\Обучение\Examples\Examples004_SummDel\bin\Debug\net6.0\Examples004_SummDel.pdb
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.csproj.AssemblyReference.cache
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.AssemblyInfoInputs.cache
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.AssemblyInfo.cs
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.csproj.CoreCompileInputs.cache
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.dll
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\refint\Examples004_SummDel.dll
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.pdb
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\Examples004_SummDel.genruntimeconfig.cache
+D:\Обучение\Examples\Examples004_SummDel\obj\Debug\net6.0\ref\Examples004_SummDel.dll
